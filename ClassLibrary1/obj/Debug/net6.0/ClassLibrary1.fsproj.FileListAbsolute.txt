@@ -1,0 +1,10 @@
+/Users/david/RiderProjects/WebApplication3/ClassLibrary1/bin/Debug/net6.0/ClassLibrary1.deps.json
+/Users/david/RiderProjects/WebApplication3/ClassLibrary1/bin/Debug/net6.0/ClassLibrary1.dll
+/Users/david/RiderProjects/WebApplication3/ClassLibrary1/bin/Debug/net6.0/ClassLibrary1.pdb
+/Users/david/RiderProjects/WebApplication3/ClassLibrary1/bin/Debug/net6.0/ClassLibrary1.xml
+/Users/david/RiderProjects/WebApplication3/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.fsproj.AssemblyReference.cache
+/Users/david/RiderProjects/WebApplication3/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/david/RiderProjects/WebApplication3/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.AssemblyInfo.fs
+/Users/david/RiderProjects/WebApplication3/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.dll
+/Users/david/RiderProjects/WebApplication3/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.xml
+/Users/david/RiderProjects/WebApplication3/ClassLibrary1/obj/Debug/net6.0/ClassLibrary1.pdb

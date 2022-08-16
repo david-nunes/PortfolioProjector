@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D1n5z6Z9HC+ffHlUYjFASNvtx/BCuO3kYwUAV3bFvCxcLFGI6rG209Mz2sUp+RiCc94lK7Jb6q0qJq3ENKLncA==",
+  "success": true,
+  "projectFilePath": "/Users/david/RiderProjects/WebApplication3/ClassLibrary1/ClassLibrary1.fsproj",
+  "expectedPackageFiles": [
+    "/Users/david/.nuget/packages/fsharp.core/6.0.5/fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
